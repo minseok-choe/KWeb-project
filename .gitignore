@@ -2,3 +2,4 @@
 .vscode/
 .metals/
 **/node_modules
+document/
